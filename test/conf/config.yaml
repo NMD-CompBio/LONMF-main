@@ -1,0 +1,20 @@
+defaults:
+  - dataset: PBMC10X_ATAC
+  - _self_
+
+data_path: "E:/project/LONMF/data/"
+
+# For all methods
+latent_dim: 50
+
+# For Cobolt and Multigrate
+n_epochs: 200
+
+# For mowgli
+eps: 0.05
+w_regularization: 0.001
+h_regularization_rna: 0.01
+h_regularization_adt: 0.01
+h_regularization_atac: 0.1
+seed: 80
+laplace_regularization: 0.01
