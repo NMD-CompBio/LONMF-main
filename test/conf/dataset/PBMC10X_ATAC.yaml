@@ -1,0 +1,2 @@
+dataset_path: "PBMC10X_ATAC/pbmc_preprocessed.h5mu.gz"
+save_to_prefix: "PBMC10X_ATAC/pbmc"
