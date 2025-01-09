@@ -6,7 +6,7 @@ This is the Python implementation of the LONMF algorithm. Note that this impleme
 ## 1. Installation
 You can use the following command to install LONMF:
 ```
-pip install LONMF
+pip install scMO_LONMF
 ```
 
 ## 2. Usage
